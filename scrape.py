@@ -1,64 +1,97 @@
 import os
 import json
 import requests
+from bs4 import BeautifulSoup
 from datetime import datetime
-import random
 
-def fetch_congressional_trades():
-    print("Fetching latest congressional trades...")
-    url = "https://house-stock-watcher-data.s3-us-west-2.amazonaws.com/data/all_transactions.json"
+def fetch_real_trades():
+    print("Scraping real congressional trades from capitoltrades.com...")
+    
+    url = "https://www.capitoltrades.com/trades"
+    
+    # We use a standard User-Agent to prevent the site from immediately blocking the request
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+    }
     
     try:
-        response = requests.get(url, timeout=10)
-        if response.status_code == 200:
-            data = response.json()
-            print(f"Successfully fetched {len(data)} real trades!")
-            normalized_trades = []
-            for item in data[:250]: # Pull up to 250 trades
-                normalized_trades.append({
-                    "representative": item.get("representative", "Unknown"),
-                    "party": item.get("party", "?"),
-                    "district": item.get("district", "?"),
-                    "ticker": item.get("ticker", "N/A"),
-                    "asset_description": item.get("asset_description", "Unknown Asset"),
-                    "type": item.get("type", "Purchase"),
-                    "amount": item.get("amount", "Unknown"),
-                    "transaction_date": item.get("transaction_date", ""),
-                    "disclosure_date": item.get("disclosure_date", ""),
-                    "ptr_link": item.get("ptr_link", str(random.random()))
-                })
-            return normalized_trades
+        response = requests.get(url, headers=headers, timeout=15)
+        response.raise_for_status()
+        
+        # Parse the HTML
+        soup = BeautifulSoup(response.text, 'html.parser')
+        rows = soup.select('table tbody tr')
+        
+        trades = []
+        for i, row in enumerate(rows):
+            cols = row.find_all('td')
+            if len(cols) < 8:
+                continue
+                
+            # Extract Politician Info
+            rep_name = cols[0].find('h2').text.strip() if cols[0].find('h2') else "Unknown"
+            party = cols[0].select_one('.party').text.strip() if cols[0].select_one('.party') else "?"
+            chamber = cols[0].select_one('.chamber').text.strip() if cols[0].select_one('.chamber') else "?"
+            state = cols[0].select_one('.us-state-compact').text.strip() if cols[0].select_one('.us-state-compact') else "?"
+            
+            # Extract Asset Info
+            asset_name = cols[1].find('h3').text.strip() if cols[1].find('h3') else "Unknown Asset"
+            ticker = cols[1].select_one('.issuer-ticker').text.strip() if cols[1].select_one('.issuer-ticker') else "N/A"
+            
+            # Extract Dates
+            pub_date_raw = cols[2].text.strip()
+            traded_date_raw = cols[3].text.strip()
+            
+            # Extract Trade Details
+            trade_type = cols[6].text.strip().capitalize()
+            amount = cols[7].text.strip()
+            
+            # Format Party to a single letter (D/R/I)
+            party_letter = "D" if "Democrat" in party else "R" if "Republican" in party else "I"
+            
+            # Format Dates (CapitolTrades uses "9 Apr2026", we want "YYYY-MM-DD")
+            def parse_date(date_str):
+                try:
+                    # Insert space between month and year if missing (e.g., "9 Apr2026" -> "9 Apr 2026")
+                    import re
+                    date_str = re.sub(r'([a-zA-Z])(\d{4})', r'\1 \2', date_str)
+                    dt = datetime.strptime(date_str, "%d %b %Y")
+                    return dt.strftime("%Y-%m-%d")
+                except:
+                    return date_str
+
+            trades.append({
+                "representative": f"{'Sen.' if chamber == 'Senate' else 'Rep.'} {rep_name}",
+                "party": party_letter,
+                "district": state,
+                "ticker": ticker if ticker != "N/A" else asset_name[:5].upper(),
+                "asset_description": asset_name,
+                "type": "Purchase" if trade_type == "Buy" else "Sale" if trade_type == "Sell" else trade_type,
+                "amount": amount,
+                "transaction_date": parse_date(traded_date_raw),
+                "disclosure_date": parse_date(pub_date_raw),
+                "ptr_link": f"capitoltrades-{i}"
+            })
+            
+        print(f"Successfully scraped {len(trades)} real trades!")
+        return trades
+        
     except Exception as e:
-        print(f"API Error: {e}. Using high-volume generator.")
-    
-    # GUARANTEED 100+ TRADES GENERATOR
-    trades = []
-    names = ["Pelosi", "McCaul", "Khanna", "Tuberville", "Gottheimer", "Greene", "Goldman", "Curtis", "Frankel", "Mast"]
-    tickers = ["NVDA", "MSFT", "AAPL", "META", "TSLA", "AMZN", "GOOGL", "AMD", "LMT", "RTX", "NFLX", "DIS", "JPM", "V", "MA"]
-    
-    for i in range(120): # Generate 120 trades
-        name = random.choice(names)
-        ticker = random.choice(tickers)
-        trades.append({
-            "representative": f"Rep. {name}",
-            "party": "D" if i % 2 == 0 else "R",
-            "district": "US-CONG",
-            "ticker": ticker,
-            "asset_description": f"{ticker} Common Stock",
-            "type": "Purchase" if random.random() > 0.3 else "Sale",
-            "amount": "$15,001 - $50,000",
-            "transaction_date": datetime.now().strftime("%Y-%m-%d"),
-            "disclosure_date": datetime.now().strftime("%Y-%m-%d"),
-            "ptr_link": f"manual-{i}-{random.random()}"
-        })
-    return trades
+        print(f"Error scraping data: {e}")
+        return []
 
 def main():
-    trades = fetch_congressional_trades()
-    os.makedirs('data', exist_ok=True)
-    with open('data/all_transactions.json', 'w') as f:
-        json.dump(trades, f, indent=2)
-    print(f"Saved {len(trades)} trades.")
+    trades = fetch_real_trades()
+    
+    if trades:
+        os.makedirs('data', exist_ok=True)
+        with open('data/all_transactions.json', 'w') as f:
+            json.dump(trades, f, indent=2)
+        print(f"Successfully saved {len(trades)} trades to data/all_transactions.json")
+    else:
+        print("No trades fetched. JSON file not updated.")
 
 if __name__ == "__main__":
     main()
