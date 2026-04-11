@@ -1,0 +1,26 @@
+[
+  {
+    "representative": "Nancy Pelosi",
+    "party": "D",
+    "district": "CA-11",
+    "ticker": "NVDA",
+    "asset_description": "NVIDIA Corporation",
+    "type": "Purchase",
+    "amount": "$1,000,001 - $5,000,000",
+    "transaction_date": "2026-04-11",
+    "disclosure_date": "2026-04-11",
+    "ptr_link": "gh-auto-1775922640.613853"
+  },
+  {
+    "representative": "Michael McCaul",
+    "party": "R",
+    "district": "TX-10",
+    "ticker": "META",
+    "asset_description": "Meta Platforms Inc",
+    "type": "Purchase",
+    "amount": "$500,001 - $1,000,000",
+    "transaction_date": "2026-04-01",
+    "disclosure_date": "2026-04-11",
+    "ptr_link": "gh-auto-1775922641.613866"
+  }
+]
