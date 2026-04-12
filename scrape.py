@@ -85,6 +85,10 @@ def fetch_real_trades():
                 asset_name = cols[1].find('h3').text.strip() if cols[1].find('h3') else "Unknown Asset"
                 ticker = cols[1].select_one('.issuer-ticker').text.strip() if cols[1].select_one('.issuer-ticker') else "N/A"
                 
+                # FILTER 3: Skip non-publicly traded assets
+                if ticker == "N/A":
+                    continue
+                
                 trade_type = cols[6].text.strip().capitalize()
                 party_letter = "D" if "Democrat" in party else "R" if "Republican" in party else "I"
                 
@@ -92,7 +96,7 @@ def fetch_real_trades():
                     "representative": f"{'Sen.' if chamber == 'Senate' else 'Rep.'} {rep_name}",
                     "party": party_letter,
                     "district": state,
-                    "ticker": ticker if ticker != "N/A" else asset_name[:5].upper(),
+                    "ticker": ticker,
                     "asset_description": asset_name,
                     "type": "Purchase" if trade_type == "Buy" else "Sale" if trade_type == "Sell" else trade_type,
                     "amount": amount,
