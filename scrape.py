@@ -16,12 +16,12 @@ def fetch_real_trades():
     }
     
     trades = []
-    # Cutoff: 45 days ago to ensure we only get recent activity
-    cutoff_date = datetime.now() - timedelta(days=45)
+    # Cutoff: 90 days ago to ensure we get a large dataset of high-value trades
+    cutoff_date = datetime.now() - timedelta(days=90)
     
     try:
-        # MAX SCRAPING: Scrape up to 100 pages to get a massive dataset
-        for page in range(1, 101):
+        # MAX SCRAPING: Scrape up to 150 pages to get a massive dataset
+        for page in range(1, 151):
             print(f"Scraping page {page}...")
             url = f"https://www.capitoltrades.com/trades?page={page}"
             
@@ -42,10 +42,10 @@ def fetch_real_trades():
                 # Extract Trade Details
                 amount = cols[7].text.strip()
                 
-                # FILTER 1: Skip trades under $50k to find high-conviction moves
+                # FILTER 1: Skip trades under $15k to find high-conviction moves while keeping volume high
                 small_buckets = [
-                    "1K–15K", "15K–50K", 
-                    "1K-15K", "15K-50K", 
+                    "1K–15K", 
+                    "1K-15K", 
                     "Unknown", "N/A", ""
                 ]
                 if amount in small_buckets:
@@ -70,7 +70,7 @@ def fetch_real_trades():
                 if not trade_dt or not pub_dt:
                     continue
                     
-                # FILTER 2: Skip trades older than 45 days
+                # FILTER 2: Skip trades older than 90 days
                 if trade_dt < cutoff_date:
                     continue
                     
