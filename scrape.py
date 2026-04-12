@@ -2,8 +2,9 @@ import os
 import json
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timedelta
 import time
+import re
 
 def fetch_real_trades():
     print("Scraping real congressional trades from capitoltrades.com...")
@@ -15,11 +16,12 @@ def fetch_real_trades():
     }
     
     trades = []
+    # Cutoff: 45 days ago to ensure we only get recent activity
+    cutoff_date = datetime.now() - timedelta(days=45)
     
     try:
-        # Scrape the first 15 pages to get a good mix of politicians
-        # (If one politician files a massive report, they can take up several pages!)
-        for page in range(1, 16):
+        # Scrape more pages (up to 25) since we are filtering out a lot of noise
+        for page in range(1, 26):
             print(f"Scraping page {page}...")
             url = f"https://www.capitoltrades.com/trades?page={page}"
             
@@ -37,6 +39,36 @@ def fetch_real_trades():
                 if len(cols) < 8:
                     continue
                     
+                # Extract Trade Details
+                amount = cols[7].text.strip()
+                
+                # FILTER 1: Skip the smallest trades to reduce noise
+                if amount in ["1K–15K", "Unknown", "N/A", ""]:
+                    continue
+                    
+                # Extract Dates
+                pub_date_raw = cols[2].text.strip()
+                traded_date_raw = cols[3].text.strip()
+                
+                def parse_date(date_str):
+                    try:
+                        # Insert space between month and year if missing
+                        date_str = re.sub(r'([a-zA-Z])(\d{4})', r'\1 \2', date_str)
+                        dt = datetime.strptime(date_str, "%d %b %Y")
+                        return dt
+                    except:
+                        return None
+
+                trade_dt = parse_date(traded_date_raw)
+                pub_dt = parse_date(pub_date_raw)
+                
+                if not trade_dt or not pub_dt:
+                    continue
+                    
+                # FILTER 2: Skip trades older than 45 days
+                if trade_dt < cutoff_date:
+                    continue
+                    
                 # Extract Politician Info
                 rep_name = cols[0].find('h2').text.strip() if cols[0].find('h2') else "Unknown"
                 party = cols[0].select_one('.party').text.strip() if cols[0].select_one('.party') else "?"
@@ -47,27 +79,9 @@ def fetch_real_trades():
                 asset_name = cols[1].find('h3').text.strip() if cols[1].find('h3') else "Unknown Asset"
                 ticker = cols[1].select_one('.issuer-ticker').text.strip() if cols[1].select_one('.issuer-ticker') else "N/A"
                 
-                # Extract Dates
-                pub_date_raw = cols[2].text.strip()
-                traded_date_raw = cols[3].text.strip()
-                
-                # Extract Trade Details
                 trade_type = cols[6].text.strip().capitalize()
-                amount = cols[7].text.strip()
-                
-                # Format Party
                 party_letter = "D" if "Democrat" in party else "R" if "Republican" in party else "I"
                 
-                # Format Dates
-                def parse_date(date_str):
-                    try:
-                        import re
-                        date_str = re.sub(r'([a-zA-Z])(\d{4})', r'\1 \2', date_str)
-                        dt = datetime.strptime(date_str, "%d %b %Y")
-                        return dt.strftime("%Y-%m-%d")
-                    except:
-                        return date_str
-
                 trades.append({
                     "representative": f"{'Sen.' if chamber == 'Senate' else 'Rep.'} {rep_name}",
                     "party": party_letter,
@@ -76,15 +90,15 @@ def fetch_real_trades():
                     "asset_description": asset_name,
                     "type": "Purchase" if trade_type == "Buy" else "Sale" if trade_type == "Sell" else trade_type,
                     "amount": amount,
-                    "transaction_date": parse_date(traded_date_raw),
-                    "disclosure_date": parse_date(pub_date_raw),
+                    "transaction_date": trade_dt.strftime("%Y-%m-%d"),
+                    "disclosure_date": pub_dt.strftime("%Y-%m-%d"),
                     "ptr_link": f"capitoltrades-p{page}-{i}"
                 })
             
-            # Be polite to the server by waiting 1 second between page requests
+            # Be polite to the server
             time.sleep(1)
             
-        print(f"Successfully scraped {len(trades)} real trades!")
+        print(f"Successfully scraped {len(trades)} high-value, recent trades!")
         return trades
         
     except Exception as e:
