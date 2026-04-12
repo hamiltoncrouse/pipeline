@@ -19,12 +19,9 @@ def fetch_real_trades():
     # Cutoff: 45 days ago to ensure we only get recent activity
     cutoff_date = datetime.now() - timedelta(days=45)
     
-    # Keep track of how many trades we have per politician
-    politician_counts = {}
-    
     try:
-        # Scrape more pages (up to 40) since >$50k trades are much rarer
-        for page in range(1, 41):
+        # MAX SCRAPING: Scrape up to 100 pages to get a massive dataset
+        for page in range(1, 101):
             print(f"Scraping page {page}...")
             url = f"https://www.capitoltrades.com/trades?page={page}"
             
@@ -80,10 +77,6 @@ def fetch_real_trades():
                 # Extract Politician Info
                 rep_name = cols[0].find('h2').text.strip() if cols[0].find('h2') else "Unknown"
                 
-                # FILTER 3: Prevent any single politician from clogging the feed (max 10 trades per person)
-                if politician_counts.get(rep_name, 0) >= 10:
-                    continue
-                    
                 party = cols[0].select_one('.party').text.strip() if cols[0].select_one('.party') else "?"
                 chamber = cols[0].select_one('.chamber').text.strip() if cols[0].select_one('.chamber') else "?"
                 state = cols[0].select_one('.us-state-compact').text.strip() if cols[0].select_one('.us-state-compact') else "?"
@@ -94,9 +87,6 @@ def fetch_real_trades():
                 
                 trade_type = cols[6].text.strip().capitalize()
                 party_letter = "D" if "Democrat" in party else "R" if "Republican" in party else "I"
-                
-                # Increment their count
-                politician_counts[rep_name] = politician_counts.get(rep_name, 0) + 1
                 
                 trades.append({
                     "representative": f"{'Sen.' if chamber == 'Senate' else 'Rep.'} {rep_name}",
