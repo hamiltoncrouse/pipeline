@@ -1,5 +1,53 @@
 [
   {
+    "representative": "Sen. John Boozman",
+    "party": "R",
+    "district": "AR",
+    "ticker": "BBEU:US",
+    "asset_description": "JPMORGAN BETABULDR EUROP ETF",
+    "type": "Sale",
+    "amount": "15K\u201350K",
+    "transaction_date": "2026-03-19",
+    "disclosure_date": "2026-04-14",
+    "ptr_link": "capitoltrades-p1-4"
+  },
+  {
+    "representative": "Rep. Thomas Kean Jr",
+    "party": "R",
+    "district": "NJ",
+    "ticker": "CB:US",
+    "asset_description": "Chubb Ltd",
+    "type": "Sale",
+    "amount": "15K\u201350K",
+    "transaction_date": "2026-03-26",
+    "disclosure_date": "2026-04-14",
+    "ptr_link": "capitoltrades-p2-1"
+  },
+  {
+    "representative": "Rep. Thomas Kean Jr",
+    "party": "R",
+    "district": "NJ",
+    "ticker": "PEP:US",
+    "asset_description": "PepsiCo Inc",
+    "type": "Sale",
+    "amount": "15K\u201350K",
+    "transaction_date": "2026-03-26",
+    "disclosure_date": "2026-04-14",
+    "ptr_link": "capitoltrades-p2-5"
+  },
+  {
+    "representative": "Rep. Thomas Kean Jr",
+    "party": "R",
+    "district": "NJ",
+    "ticker": "SPGI:US",
+    "asset_description": "S&P Global Inc",
+    "type": "Sale",
+    "amount": "15K\u201350K",
+    "transaction_date": "2026-03-26",
+    "disclosure_date": "2026-04-14",
+    "ptr_link": "capitoltrades-p2-6"
+  },
+  {
     "representative": "Rep. Michael McCaul",
     "party": "R",
     "district": "TX",
