@@ -1,5 +1,17 @@
 [
   {
+    "representative": "Rep. Greg Steube",
+    "party": "R",
+    "district": "FL",
+    "ticker": "MAR:US",
+    "asset_description": "Marriott International Inc",
+    "type": "Purchase",
+    "amount": "15K\u201350K",
+    "transaction_date": "2026-04-08",
+    "disclosure_date": "2026-04-15",
+    "ptr_link": "capitoltrades-p2-6"
+  },
+  {
     "representative": "Sen. John Boozman",
     "party": "R",
     "district": "AR",
@@ -9,7 +21,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-19",
     "disclosure_date": "2026-04-14",
-    "ptr_link": "capitoltrades-p1-4"
+    "ptr_link": "capitoltrades-p2-9"
   },
   {
     "representative": "Rep. Thomas Kean Jr",
@@ -21,7 +33,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-26",
     "disclosure_date": "2026-04-14",
-    "ptr_link": "capitoltrades-p2-1"
+    "ptr_link": "capitoltrades-p3-6"
   },
   {
     "representative": "Rep. Thomas Kean Jr",
@@ -33,7 +45,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-26",
     "disclosure_date": "2026-04-14",
-    "ptr_link": "capitoltrades-p2-5"
+    "ptr_link": "capitoltrades-p3-10"
   },
   {
     "representative": "Rep. Thomas Kean Jr",
@@ -45,7 +57,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-26",
     "disclosure_date": "2026-04-14",
-    "ptr_link": "capitoltrades-p2-6"
+    "ptr_link": "capitoltrades-p3-11"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -57,7 +69,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-03",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p3-9"
+    "ptr_link": "capitoltrades-p5-2"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -69,7 +81,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-31",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p3-10"
+    "ptr_link": "capitoltrades-p5-3"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -81,7 +93,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-04",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p3-11"
+    "ptr_link": "capitoltrades-p5-4"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -93,7 +105,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-02",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p4-0"
+    "ptr_link": "capitoltrades-p5-5"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -105,7 +117,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-13",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p4-1"
+    "ptr_link": "capitoltrades-p5-6"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -117,7 +129,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-25",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p4-2"
+    "ptr_link": "capitoltrades-p5-7"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -129,7 +141,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-12",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p4-4"
+    "ptr_link": "capitoltrades-p5-9"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -141,7 +153,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-12",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p7-6"
+    "ptr_link": "capitoltrades-p8-11"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -153,7 +165,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-12",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p7-7"
+    "ptr_link": "capitoltrades-p9-0"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -165,7 +177,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-25",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p7-8"
+    "ptr_link": "capitoltrades-p9-1"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -177,7 +189,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-04",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p7-9"
+    "ptr_link": "capitoltrades-p9-2"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -189,7 +201,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-31",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p7-10"
+    "ptr_link": "capitoltrades-p9-3"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -201,7 +213,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-04",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p8-1"
+    "ptr_link": "capitoltrades-p9-6"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -213,7 +225,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-03-04",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p8-3"
+    "ptr_link": "capitoltrades-p9-8"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -225,7 +237,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p8-4"
+    "ptr_link": "capitoltrades-p9-9"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -237,7 +249,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-02",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p8-5"
+    "ptr_link": "capitoltrades-p9-10"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -249,7 +261,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p8-6"
+    "ptr_link": "capitoltrades-p9-11"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -261,7 +273,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-13",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p8-7"
+    "ptr_link": "capitoltrades-p10-0"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -273,7 +285,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p8-8"
+    "ptr_link": "capitoltrades-p10-1"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -285,7 +297,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-13",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p8-9"
+    "ptr_link": "capitoltrades-p10-2"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -297,7 +309,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-04",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p8-10"
+    "ptr_link": "capitoltrades-p10-3"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -309,7 +321,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p8-11"
+    "ptr_link": "capitoltrades-p10-4"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -321,7 +333,7 @@
     "amount": "500K\u20131M",
     "transaction_date": "2026-03-13",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p9-0"
+    "ptr_link": "capitoltrades-p10-5"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -333,7 +345,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-02",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p9-1"
+    "ptr_link": "capitoltrades-p10-6"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -345,7 +357,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p9-2"
+    "ptr_link": "capitoltrades-p10-7"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -357,7 +369,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-03-04",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p9-3"
+    "ptr_link": "capitoltrades-p10-8"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -369,7 +381,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-27",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p9-9"
+    "ptr_link": "capitoltrades-p11-2"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -381,7 +393,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-31",
     "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p9-11"
+    "ptr_link": "capitoltrades-p11-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -393,7 +405,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-03",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p16-2"
+    "ptr_link": "capitoltrades-p17-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -405,7 +417,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p17-7"
+    "ptr_link": "capitoltrades-p19-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -417,7 +429,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p17-8"
+    "ptr_link": "capitoltrades-p19-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -429,7 +441,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p17-9"
+    "ptr_link": "capitoltrades-p19-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -441,7 +453,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p17-11"
+    "ptr_link": "capitoltrades-p19-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -453,7 +465,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p18-0"
+    "ptr_link": "capitoltrades-p19-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -465,7 +477,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p18-1"
+    "ptr_link": "capitoltrades-p19-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -477,7 +489,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p18-2"
+    "ptr_link": "capitoltrades-p19-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -489,7 +501,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p18-3"
+    "ptr_link": "capitoltrades-p19-8"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -501,7 +513,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p18-4"
+    "ptr_link": "capitoltrades-p19-9"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -513,7 +525,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p18-6"
+    "ptr_link": "capitoltrades-p19-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -525,7 +537,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p18-7"
+    "ptr_link": "capitoltrades-p20-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -537,7 +549,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p18-8"
+    "ptr_link": "capitoltrades-p20-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -549,7 +561,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p18-9"
+    "ptr_link": "capitoltrades-p20-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -561,7 +573,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p18-10"
+    "ptr_link": "capitoltrades-p20-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -573,7 +585,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p18-11"
+    "ptr_link": "capitoltrades-p20-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -585,7 +597,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p19-0"
+    "ptr_link": "capitoltrades-p20-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -597,7 +609,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p19-1"
+    "ptr_link": "capitoltrades-p20-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -609,7 +621,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p19-2"
+    "ptr_link": "capitoltrades-p20-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -621,7 +633,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p19-3"
+    "ptr_link": "capitoltrades-p20-8"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -633,7 +645,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p19-4"
+    "ptr_link": "capitoltrades-p20-9"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -645,7 +657,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p19-5"
+    "ptr_link": "capitoltrades-p20-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -657,7 +669,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p19-6"
+    "ptr_link": "capitoltrades-p20-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -669,7 +681,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p19-7"
+    "ptr_link": "capitoltrades-p21-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -681,7 +693,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p19-8"
+    "ptr_link": "capitoltrades-p21-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -693,7 +705,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p19-9"
+    "ptr_link": "capitoltrades-p21-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -705,7 +717,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p19-10"
+    "ptr_link": "capitoltrades-p21-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -717,7 +729,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p19-11"
+    "ptr_link": "capitoltrades-p21-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -729,7 +741,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p20-0"
+    "ptr_link": "capitoltrades-p21-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -741,7 +753,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p20-1"
+    "ptr_link": "capitoltrades-p21-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -753,7 +765,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p21-9"
+    "ptr_link": "capitoltrades-p23-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -765,7 +777,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p21-10"
+    "ptr_link": "capitoltrades-p23-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -777,7 +789,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p21-11"
+    "ptr_link": "capitoltrades-p23-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -789,7 +801,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p22-0"
+    "ptr_link": "capitoltrades-p23-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -801,7 +813,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p22-1"
+    "ptr_link": "capitoltrades-p23-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -813,7 +825,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p22-2"
+    "ptr_link": "capitoltrades-p23-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -825,7 +837,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p22-3"
+    "ptr_link": "capitoltrades-p23-8"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -837,7 +849,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p22-4"
+    "ptr_link": "capitoltrades-p23-9"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -849,7 +861,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p22-5"
+    "ptr_link": "capitoltrades-p23-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -861,7 +873,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p22-6"
+    "ptr_link": "capitoltrades-p23-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -873,7 +885,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p22-7"
+    "ptr_link": "capitoltrades-p24-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -885,7 +897,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p22-8"
+    "ptr_link": "capitoltrades-p24-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -897,7 +909,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p22-9"
+    "ptr_link": "capitoltrades-p24-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -909,7 +921,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p22-10"
+    "ptr_link": "capitoltrades-p24-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -921,7 +933,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p22-11"
+    "ptr_link": "capitoltrades-p24-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -933,7 +945,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p23-0"
+    "ptr_link": "capitoltrades-p24-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -945,7 +957,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p23-1"
+    "ptr_link": "capitoltrades-p24-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -957,7 +969,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-30",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p23-2"
+    "ptr_link": "capitoltrades-p24-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -969,7 +981,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p30-0"
+    "ptr_link": "capitoltrades-p31-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -981,7 +993,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p30-1"
+    "ptr_link": "capitoltrades-p31-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -993,7 +1005,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p30-2"
+    "ptr_link": "capitoltrades-p31-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1005,7 +1017,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p30-3"
+    "ptr_link": "capitoltrades-p31-8"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1017,7 +1029,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p30-4"
+    "ptr_link": "capitoltrades-p31-9"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1029,7 +1041,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p30-5"
+    "ptr_link": "capitoltrades-p31-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1041,7 +1053,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p30-6"
+    "ptr_link": "capitoltrades-p31-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1053,7 +1065,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p30-7"
+    "ptr_link": "capitoltrades-p32-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1065,7 +1077,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p30-8"
+    "ptr_link": "capitoltrades-p32-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1077,7 +1089,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p30-9"
+    "ptr_link": "capitoltrades-p32-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1089,7 +1101,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p30-10"
+    "ptr_link": "capitoltrades-p32-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1101,7 +1113,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p34-7"
+    "ptr_link": "capitoltrades-p36-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1113,7 +1125,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p34-8"
+    "ptr_link": "capitoltrades-p36-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1125,7 +1137,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p34-9"
+    "ptr_link": "capitoltrades-p36-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1137,7 +1149,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p34-10"
+    "ptr_link": "capitoltrades-p36-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1149,7 +1161,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p34-11"
+    "ptr_link": "capitoltrades-p36-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1161,7 +1173,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p35-0"
+    "ptr_link": "capitoltrades-p36-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1173,7 +1185,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p35-1"
+    "ptr_link": "capitoltrades-p36-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1185,7 +1197,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p35-2"
+    "ptr_link": "capitoltrades-p36-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1197,7 +1209,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p35-3"
+    "ptr_link": "capitoltrades-p36-8"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1209,7 +1221,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p35-4"
+    "ptr_link": "capitoltrades-p36-9"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1221,7 +1233,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p35-5"
+    "ptr_link": "capitoltrades-p36-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1233,7 +1245,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p35-6"
+    "ptr_link": "capitoltrades-p36-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1245,7 +1257,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p35-7"
+    "ptr_link": "capitoltrades-p37-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1257,7 +1269,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p35-8"
+    "ptr_link": "capitoltrades-p37-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1269,7 +1281,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p39-5"
+    "ptr_link": "capitoltrades-p40-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1281,7 +1293,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p39-6"
+    "ptr_link": "capitoltrades-p40-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1293,7 +1305,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p39-7"
+    "ptr_link": "capitoltrades-p41-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1305,7 +1317,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p39-8"
+    "ptr_link": "capitoltrades-p41-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1317,7 +1329,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p39-9"
+    "ptr_link": "capitoltrades-p41-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1329,7 +1341,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p39-10"
+    "ptr_link": "capitoltrades-p41-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1341,7 +1353,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p39-11"
+    "ptr_link": "capitoltrades-p41-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1353,7 +1365,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p40-0"
+    "ptr_link": "capitoltrades-p41-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1365,7 +1377,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p40-1"
+    "ptr_link": "capitoltrades-p41-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1377,7 +1389,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p40-2"
+    "ptr_link": "capitoltrades-p41-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1389,7 +1401,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p40-3"
+    "ptr_link": "capitoltrades-p41-8"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1401,7 +1413,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p40-4"
+    "ptr_link": "capitoltrades-p41-9"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1413,7 +1425,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p40-5"
+    "ptr_link": "capitoltrades-p41-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1425,7 +1437,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p40-6"
+    "ptr_link": "capitoltrades-p41-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1437,7 +1449,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p40-7"
+    "ptr_link": "capitoltrades-p42-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1449,7 +1461,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p40-8"
+    "ptr_link": "capitoltrades-p42-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1461,7 +1473,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p40-9"
+    "ptr_link": "capitoltrades-p42-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1473,7 +1485,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p40-10"
+    "ptr_link": "capitoltrades-p42-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1485,7 +1497,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p47-4"
+    "ptr_link": "capitoltrades-p48-9"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1497,7 +1509,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p47-5"
+    "ptr_link": "capitoltrades-p48-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1509,7 +1521,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p47-6"
+    "ptr_link": "capitoltrades-p48-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1521,7 +1533,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p47-7"
+    "ptr_link": "capitoltrades-p49-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1533,7 +1545,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p47-8"
+    "ptr_link": "capitoltrades-p49-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1545,7 +1557,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p47-9"
+    "ptr_link": "capitoltrades-p49-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1557,7 +1569,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p47-10"
+    "ptr_link": "capitoltrades-p49-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1569,7 +1581,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p47-11"
+    "ptr_link": "capitoltrades-p49-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1581,7 +1593,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p48-0"
+    "ptr_link": "capitoltrades-p49-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1593,7 +1605,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p48-1"
+    "ptr_link": "capitoltrades-p49-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1605,7 +1617,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p48-2"
+    "ptr_link": "capitoltrades-p49-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1617,7 +1629,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p48-3"
+    "ptr_link": "capitoltrades-p49-8"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1629,7 +1641,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p48-4"
+    "ptr_link": "capitoltrades-p49-9"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1641,7 +1653,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p48-5"
+    "ptr_link": "capitoltrades-p49-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1653,7 +1665,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p48-6"
+    "ptr_link": "capitoltrades-p49-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1665,7 +1677,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-16",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p55-5"
+    "ptr_link": "capitoltrades-p56-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1677,7 +1689,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-02",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p55-6"
+    "ptr_link": "capitoltrades-p56-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1689,7 +1701,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-09",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p55-7"
+    "ptr_link": "capitoltrades-p57-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1701,7 +1713,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-04",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p55-8"
+    "ptr_link": "capitoltrades-p57-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1713,7 +1725,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-19",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p55-9"
+    "ptr_link": "capitoltrades-p57-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1725,7 +1737,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-18",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p55-11"
+    "ptr_link": "capitoltrades-p57-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1737,7 +1749,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-19",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p56-10"
+    "ptr_link": "capitoltrades-p58-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1749,7 +1761,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p58-5"
+    "ptr_link": "capitoltrades-p59-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -1761,7 +1773,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p58-6"
+    "ptr_link": "capitoltrades-p59-11"
   },
   {
     "representative": "Rep. Josh Gottheimer",
@@ -1773,7 +1785,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-25",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p65-0"
+    "ptr_link": "capitoltrades-p66-5"
   },
   {
     "representative": "Rep. Josh Gottheimer",
@@ -1785,7 +1797,7 @@
     "amount": "500K\u20131M",
     "transaction_date": "2026-03-25",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p65-1"
+    "ptr_link": "capitoltrades-p66-6"
   },
   {
     "representative": "Rep. Jonathan Jackson",
@@ -1797,7 +1809,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-19",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p65-8"
+    "ptr_link": "capitoltrades-p67-1"
   },
   {
     "representative": "Rep. Jonathan Jackson",
@@ -1809,7 +1821,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-19",
     "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p65-9"
+    "ptr_link": "capitoltrades-p67-2"
   },
   {
     "representative": "Rep. Gil Cisneros",
@@ -1821,7 +1833,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-18",
     "disclosure_date": "2026-04-08",
-    "ptr_link": "capitoltrades-p69-8"
+    "ptr_link": "capitoltrades-p71-1"
   },
   {
     "representative": "Rep. Gil Cisneros",
@@ -1833,7 +1845,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-20",
     "disclosure_date": "2026-04-08",
-    "ptr_link": "capitoltrades-p69-10"
+    "ptr_link": "capitoltrades-p71-3"
   },
   {
     "representative": "Rep. Gil Cisneros",
@@ -1845,7 +1857,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-12",
     "disclosure_date": "2026-04-08",
-    "ptr_link": "capitoltrades-p72-6"
+    "ptr_link": "capitoltrades-p73-11"
   },
   {
     "representative": "Rep. Gil Cisneros",
@@ -1857,7 +1869,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-27",
     "disclosure_date": "2026-04-08",
-    "ptr_link": "capitoltrades-p73-4"
+    "ptr_link": "capitoltrades-p74-9"
   },
   {
     "representative": "Rep. Gil Cisneros",
@@ -1869,7 +1881,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-13",
     "disclosure_date": "2026-04-08",
-    "ptr_link": "capitoltrades-p74-11"
+    "ptr_link": "capitoltrades-p76-4"
   },
   {
     "representative": "Rep. Gil Cisneros",
@@ -1881,7 +1893,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-20",
     "disclosure_date": "2026-04-08",
-    "ptr_link": "capitoltrades-p76-0"
+    "ptr_link": "capitoltrades-p77-5"
   },
   {
     "representative": "Rep. Gil Cisneros",
@@ -1893,7 +1905,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-13",
     "disclosure_date": "2026-04-08",
-    "ptr_link": "capitoltrades-p76-2"
+    "ptr_link": "capitoltrades-p77-7"
   },
   {
     "representative": "Rep. Gil Cisneros",
@@ -1905,7 +1917,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-13",
     "disclosure_date": "2026-04-08",
-    "ptr_link": "capitoltrades-p76-9"
+    "ptr_link": "capitoltrades-p78-2"
   },
   {
     "representative": "Rep. Gil Cisneros",
@@ -1917,7 +1929,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-13",
     "disclosure_date": "2026-04-08",
-    "ptr_link": "capitoltrades-p78-4"
+    "ptr_link": "capitoltrades-p79-9"
   },
   {
     "representative": "Rep. Kevin Hern",
@@ -1929,7 +1941,7 @@
     "amount": "250K\u2013500K",
     "transaction_date": "2026-03-16",
     "disclosure_date": "2026-04-06",
-    "ptr_link": "capitoltrades-p83-3"
+    "ptr_link": "capitoltrades-p84-8"
   },
   {
     "representative": "Rep. Kevin Hern",
@@ -1941,7 +1953,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-17",
     "disclosure_date": "2026-04-06",
-    "ptr_link": "capitoltrades-p83-4"
+    "ptr_link": "capitoltrades-p84-9"
   },
   {
     "representative": "Rep. Kevin Hern",
@@ -1953,7 +1965,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-17",
     "disclosure_date": "2026-04-06",
-    "ptr_link": "capitoltrades-p83-5"
+    "ptr_link": "capitoltrades-p84-10"
   },
   {
     "representative": "Rep. Kevin Hern",
@@ -1965,7 +1977,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-17",
     "disclosure_date": "2026-04-06",
-    "ptr_link": "capitoltrades-p83-6"
+    "ptr_link": "capitoltrades-p84-11"
   },
   {
     "representative": "Rep. Kevin Hern",
@@ -1977,7 +1989,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-17",
     "disclosure_date": "2026-04-06",
-    "ptr_link": "capitoltrades-p83-7"
+    "ptr_link": "capitoltrades-p85-0"
   },
   {
     "representative": "Rep. Kevin Hern",
@@ -1989,7 +2001,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-03-05",
     "disclosure_date": "2026-04-06",
-    "ptr_link": "capitoltrades-p83-9"
+    "ptr_link": "capitoltrades-p85-2"
   },
   {
     "representative": "Rep. Kevin Hern",
@@ -2001,7 +2013,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-17",
     "disclosure_date": "2026-04-06",
-    "ptr_link": "capitoltrades-p83-10"
+    "ptr_link": "capitoltrades-p85-3"
   },
   {
     "representative": "Rep. Kevin Hern",
@@ -2013,7 +2025,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-16",
     "disclosure_date": "2026-04-06",
-    "ptr_link": "capitoltrades-p83-11"
+    "ptr_link": "capitoltrades-p85-4"
   },
   {
     "representative": "Rep. Kevin Hern",
@@ -2025,7 +2037,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-17",
     "disclosure_date": "2026-04-06",
-    "ptr_link": "capitoltrades-p84-0"
+    "ptr_link": "capitoltrades-p85-5"
   },
   {
     "representative": "Rep. Kevin Hern",
@@ -2037,7 +2049,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-20",
     "disclosure_date": "2026-04-06",
-    "ptr_link": "capitoltrades-p84-1"
+    "ptr_link": "capitoltrades-p85-6"
   },
   {
     "representative": "Rep. Kevin Hern",
@@ -2049,7 +2061,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-16",
     "disclosure_date": "2026-04-06",
-    "ptr_link": "capitoltrades-p84-2"
+    "ptr_link": "capitoltrades-p85-7"
   },
   {
     "representative": "Rep. Kevin Hern",
@@ -2061,7 +2073,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-20",
     "disclosure_date": "2026-04-06",
-    "ptr_link": "capitoltrades-p84-3"
+    "ptr_link": "capitoltrades-p85-8"
   },
   {
     "representative": "Rep. Kevin Hern",
@@ -2073,7 +2085,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-20",
     "disclosure_date": "2026-04-06",
-    "ptr_link": "capitoltrades-p84-5"
+    "ptr_link": "capitoltrades-p85-10"
   },
   {
     "representative": "Rep. Kevin Hern",
@@ -2085,7 +2097,7 @@
     "amount": "500K\u20131M",
     "transaction_date": "2026-03-18",
     "disclosure_date": "2026-04-06",
-    "ptr_link": "capitoltrades-p84-6"
+    "ptr_link": "capitoltrades-p85-11"
   },
   {
     "representative": "Sen. Tina Smith",
@@ -2097,7 +2109,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-31",
     "disclosure_date": "2026-04-02",
-    "ptr_link": "capitoltrades-p86-10"
+    "ptr_link": "capitoltrades-p88-3"
   },
   {
     "representative": "Sen. Tina Smith",
@@ -2109,7 +2121,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-03-31",
     "disclosure_date": "2026-04-02",
-    "ptr_link": "capitoltrades-p86-11"
+    "ptr_link": "capitoltrades-p88-4"
   },
   {
     "representative": "Sen. Dave McCormick",
@@ -2121,7 +2133,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-03-10",
     "disclosure_date": "2026-03-26",
-    "ptr_link": "capitoltrades-p88-10"
+    "ptr_link": "capitoltrades-p90-3"
   },
   {
     "representative": "Sen. Dave McCormick",
@@ -2133,7 +2145,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-03-03",
     "disclosure_date": "2026-03-26",
-    "ptr_link": "capitoltrades-p88-11"
+    "ptr_link": "capitoltrades-p90-4"
   },
   {
     "representative": "Sen. Dave McCormick",
@@ -2145,7 +2157,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-02-25",
     "disclosure_date": "2026-03-26",
-    "ptr_link": "capitoltrades-p89-4"
+    "ptr_link": "capitoltrades-p90-9"
   },
   {
     "representative": "Sen. Dave McCormick",
@@ -2157,7 +2169,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-02-25",
     "disclosure_date": "2026-03-26",
-    "ptr_link": "capitoltrades-p89-5"
+    "ptr_link": "capitoltrades-p90-10"
   },
   {
     "representative": "Sen. Dave McCormick",
@@ -2169,7 +2181,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-26",
-    "ptr_link": "capitoltrades-p89-6"
+    "ptr_link": "capitoltrades-p90-11"
   },
   {
     "representative": "Sen. Dave McCormick",
@@ -2181,7 +2193,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-02-23",
     "disclosure_date": "2026-03-26",
-    "ptr_link": "capitoltrades-p89-7"
+    "ptr_link": "capitoltrades-p91-0"
   },
   {
     "representative": "Sen. Dave McCormick",
@@ -2193,7 +2205,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-02-23",
     "disclosure_date": "2026-03-26",
-    "ptr_link": "capitoltrades-p89-8"
+    "ptr_link": "capitoltrades-p91-1"
   },
   {
     "representative": "Sen. Susan Collins",
@@ -2205,7 +2217,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-03",
     "disclosure_date": "2026-03-26",
-    "ptr_link": "capitoltrades-p89-10"
+    "ptr_link": "capitoltrades-p91-3"
   },
   {
     "representative": "Rep. Tim Moore",
@@ -2217,7 +2229,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-23",
     "disclosure_date": "2026-03-25",
-    "ptr_link": "capitoltrades-p89-11"
+    "ptr_link": "capitoltrades-p91-4"
   },
   {
     "representative": "Rep. Tim Moore",
@@ -2229,7 +2241,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-12",
     "disclosure_date": "2026-03-25",
-    "ptr_link": "capitoltrades-p90-0"
+    "ptr_link": "capitoltrades-p91-5"
   },
   {
     "representative": "Rep. Tim Moore",
@@ -2241,7 +2253,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-17",
     "disclosure_date": "2026-03-25",
-    "ptr_link": "capitoltrades-p90-1"
+    "ptr_link": "capitoltrades-p91-6"
   },
   {
     "representative": "Rep. Tim Moore",
@@ -2253,7 +2265,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-18",
     "disclosure_date": "2026-03-25",
-    "ptr_link": "capitoltrades-p90-2"
+    "ptr_link": "capitoltrades-p91-7"
   },
   {
     "representative": "Rep. Tim Moore",
@@ -2265,7 +2277,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-03-19",
     "disclosure_date": "2026-03-25",
-    "ptr_link": "capitoltrades-p90-3"
+    "ptr_link": "capitoltrades-p91-8"
   },
   {
     "representative": "Rep. Tim Moore",
@@ -2277,7 +2289,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-20",
     "disclosure_date": "2026-03-25",
-    "ptr_link": "capitoltrades-p90-4"
+    "ptr_link": "capitoltrades-p91-9"
   },
   {
     "representative": "Rep. Tim Moore",
@@ -2289,7 +2301,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-03-12",
     "disclosure_date": "2026-03-25",
-    "ptr_link": "capitoltrades-p90-5"
+    "ptr_link": "capitoltrades-p91-10"
   },
   {
     "representative": "Rep. Chuck Fleischmann",
@@ -2301,7 +2313,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-20",
     "disclosure_date": "2026-03-23",
-    "ptr_link": "capitoltrades-p92-9"
+    "ptr_link": "capitoltrades-p94-2"
   },
   {
     "representative": "Rep. Chuck Fleischmann",
@@ -2313,7 +2325,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-23",
     "disclosure_date": "2026-03-23",
-    "ptr_link": "capitoltrades-p92-10"
+    "ptr_link": "capitoltrades-p94-3"
   },
   {
     "representative": "Rep. Sheri Biggs",
@@ -2325,7 +2337,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-02-19",
     "disclosure_date": "2026-03-23",
-    "ptr_link": "capitoltrades-p93-0"
+    "ptr_link": "capitoltrades-p94-5"
   },
   {
     "representative": "Rep. Thomas Kean Jr",
@@ -2337,7 +2349,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-18",
-    "ptr_link": "capitoltrades-p94-3"
+    "ptr_link": "capitoltrades-p95-8"
   },
   {
     "representative": "Rep. Tom Suozzi",
@@ -2349,7 +2361,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-18",
     "disclosure_date": "2026-03-18",
-    "ptr_link": "capitoltrades-p94-10"
+    "ptr_link": "capitoltrades-p96-3"
   },
   {
     "representative": "Rep. Tom Suozzi",
@@ -2361,7 +2373,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-18",
     "disclosure_date": "2026-03-18",
-    "ptr_link": "capitoltrades-p94-11"
+    "ptr_link": "capitoltrades-p96-4"
   },
   {
     "representative": "Rep. Tom Suozzi",
@@ -2373,7 +2385,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-18",
     "disclosure_date": "2026-03-18",
-    "ptr_link": "capitoltrades-p95-0"
+    "ptr_link": "capitoltrades-p96-5"
   },
   {
     "representative": "Rep. Jonathan Jackson",
@@ -2385,7 +2397,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-13",
-    "ptr_link": "capitoltrades-p106-0"
+    "ptr_link": "capitoltrades-p107-5"
   },
   {
     "representative": "Rep. Jonathan Jackson",
@@ -2397,7 +2409,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-17",
     "disclosure_date": "2026-03-13",
-    "ptr_link": "capitoltrades-p106-1"
+    "ptr_link": "capitoltrades-p107-6"
   },
   {
     "representative": "Rep. Jonathan Jackson",
@@ -2409,7 +2421,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-13",
-    "ptr_link": "capitoltrades-p106-3"
+    "ptr_link": "capitoltrades-p107-8"
   },
   {
     "representative": "Rep. Jonathan Jackson",
@@ -2421,7 +2433,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-17",
     "disclosure_date": "2026-03-13",
-    "ptr_link": "capitoltrades-p106-7"
+    "ptr_link": "capitoltrades-p108-0"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2433,7 +2445,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-19",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p107-1"
+    "ptr_link": "capitoltrades-p108-6"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2445,7 +2457,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-19",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p107-2"
+    "ptr_link": "capitoltrades-p108-7"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2457,7 +2469,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-19",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p107-3"
+    "ptr_link": "capitoltrades-p108-8"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2469,7 +2481,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-19",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p107-4"
+    "ptr_link": "capitoltrades-p108-9"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2481,7 +2493,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-19",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p107-5"
+    "ptr_link": "capitoltrades-p108-10"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2493,7 +2505,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-19",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p107-6"
+    "ptr_link": "capitoltrades-p108-11"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2505,7 +2517,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-19",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p107-7"
+    "ptr_link": "capitoltrades-p109-0"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2517,7 +2529,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-17",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p107-8"
+    "ptr_link": "capitoltrades-p109-1"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2529,7 +2541,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-12",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p107-10"
+    "ptr_link": "capitoltrades-p109-3"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2541,7 +2553,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-02-12",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p107-11"
+    "ptr_link": "capitoltrades-p109-4"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2553,7 +2565,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-12",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p108-0"
+    "ptr_link": "capitoltrades-p109-5"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2565,7 +2577,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-12",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p108-1"
+    "ptr_link": "capitoltrades-p109-6"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2577,7 +2589,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-11",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p108-2"
+    "ptr_link": "capitoltrades-p109-7"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2589,7 +2601,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-11",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p108-3"
+    "ptr_link": "capitoltrades-p109-8"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2601,7 +2613,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-09",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p108-4"
+    "ptr_link": "capitoltrades-p109-9"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2613,7 +2625,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-09",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p108-5"
+    "ptr_link": "capitoltrades-p109-10"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2625,7 +2637,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-04",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p108-6"
+    "ptr_link": "capitoltrades-p109-11"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2637,7 +2649,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-03",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p108-8"
+    "ptr_link": "capitoltrades-p110-1"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2649,7 +2661,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-03",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p108-9"
+    "ptr_link": "capitoltrades-p110-2"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2661,7 +2673,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-03",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p108-10"
+    "ptr_link": "capitoltrades-p110-3"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2673,7 +2685,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-03",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p108-11"
+    "ptr_link": "capitoltrades-p110-4"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2685,7 +2697,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-03",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p109-0"
+    "ptr_link": "capitoltrades-p110-5"
   },
   {
     "representative": "Rep. Tony Wied",
@@ -2697,7 +2709,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-03",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p109-1"
+    "ptr_link": "capitoltrades-p110-6"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2709,7 +2721,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-12",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p111-0"
+    "ptr_link": "capitoltrades-p112-5"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2721,7 +2733,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-13",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p111-7"
+    "ptr_link": "capitoltrades-p113-0"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2733,7 +2745,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-12",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p111-8"
+    "ptr_link": "capitoltrades-p113-1"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2745,7 +2757,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-27",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p111-10"
+    "ptr_link": "capitoltrades-p113-3"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2757,7 +2769,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-27",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p111-11"
+    "ptr_link": "capitoltrades-p113-4"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2769,7 +2781,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-27",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p112-0"
+    "ptr_link": "capitoltrades-p113-5"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2781,7 +2793,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p112-1"
+    "ptr_link": "capitoltrades-p113-6"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2793,7 +2805,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-13",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p112-3"
+    "ptr_link": "capitoltrades-p113-8"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2805,7 +2817,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-04",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p112-4"
+    "ptr_link": "capitoltrades-p113-9"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2817,7 +2829,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-03",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p112-5"
+    "ptr_link": "capitoltrades-p113-10"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2829,7 +2841,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-23",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p117-2"
+    "ptr_link": "capitoltrades-p118-7"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2841,7 +2853,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-10",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p117-3"
+    "ptr_link": "capitoltrades-p118-8"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2853,7 +2865,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-13",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p117-4"
+    "ptr_link": "capitoltrades-p118-9"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2865,7 +2877,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-23",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p117-5"
+    "ptr_link": "capitoltrades-p118-10"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2877,7 +2889,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-04",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p117-6"
+    "ptr_link": "capitoltrades-p118-11"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2889,7 +2901,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-10",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p117-7"
+    "ptr_link": "capitoltrades-p119-0"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2901,7 +2913,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p117-8"
+    "ptr_link": "capitoltrades-p119-1"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2913,7 +2925,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-27",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p117-9"
+    "ptr_link": "capitoltrades-p119-2"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2925,7 +2937,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-04",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p117-10"
+    "ptr_link": "capitoltrades-p119-3"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2937,7 +2949,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-12",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p117-11"
+    "ptr_link": "capitoltrades-p119-4"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2949,7 +2961,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-02-18",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p118-2"
+    "ptr_link": "capitoltrades-p119-7"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2961,7 +2973,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-02-17",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p118-6"
+    "ptr_link": "capitoltrades-p119-11"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2973,7 +2985,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-02-06",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p118-8"
+    "ptr_link": "capitoltrades-p120-1"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2985,7 +2997,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-20",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p118-10"
+    "ptr_link": "capitoltrades-p120-3"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -2997,7 +3009,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-20",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p118-11"
+    "ptr_link": "capitoltrades-p120-4"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -3009,7 +3021,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-12",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p119-0"
+    "ptr_link": "capitoltrades-p120-5"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -3021,7 +3033,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-20",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p119-1"
+    "ptr_link": "capitoltrades-p120-6"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -3033,7 +3045,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-17",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p119-2"
+    "ptr_link": "capitoltrades-p120-7"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -3045,7 +3057,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-02-06",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p119-3"
+    "ptr_link": "capitoltrades-p120-8"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3057,7 +3069,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-02-19",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p119-5"
+    "ptr_link": "capitoltrades-p120-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3069,7 +3081,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-02-03",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p119-6"
+    "ptr_link": "capitoltrades-p120-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3081,7 +3093,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p119-7"
+    "ptr_link": "capitoltrades-p121-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3093,7 +3105,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-10",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p119-8"
+    "ptr_link": "capitoltrades-p121-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3105,7 +3117,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-06",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p119-9"
+    "ptr_link": "capitoltrades-p121-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3117,7 +3129,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-06",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p120-6"
+    "ptr_link": "capitoltrades-p121-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3129,7 +3141,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p122-5"
+    "ptr_link": "capitoltrades-p123-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3141,7 +3153,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p122-6"
+    "ptr_link": "capitoltrades-p123-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3153,7 +3165,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p122-7"
+    "ptr_link": "capitoltrades-p124-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3165,7 +3177,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p122-8"
+    "ptr_link": "capitoltrades-p124-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3177,7 +3189,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p122-9"
+    "ptr_link": "capitoltrades-p124-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3189,7 +3201,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p122-10"
+    "ptr_link": "capitoltrades-p124-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3201,7 +3213,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p122-11"
+    "ptr_link": "capitoltrades-p124-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3213,7 +3225,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p123-0"
+    "ptr_link": "capitoltrades-p124-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3225,7 +3237,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p123-1"
+    "ptr_link": "capitoltrades-p124-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3237,7 +3249,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p123-2"
+    "ptr_link": "capitoltrades-p124-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3249,7 +3261,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p123-3"
+    "ptr_link": "capitoltrades-p124-8"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3261,7 +3273,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p123-4"
+    "ptr_link": "capitoltrades-p124-9"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3273,7 +3285,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p123-5"
+    "ptr_link": "capitoltrades-p124-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3285,7 +3297,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p123-6"
+    "ptr_link": "capitoltrades-p124-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3297,7 +3309,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p123-7"
+    "ptr_link": "capitoltrades-p125-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3309,7 +3321,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p123-8"
+    "ptr_link": "capitoltrades-p125-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3321,7 +3333,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p123-9"
+    "ptr_link": "capitoltrades-p125-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3333,7 +3345,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p129-7"
+    "ptr_link": "capitoltrades-p131-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3345,7 +3357,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p129-8"
+    "ptr_link": "capitoltrades-p131-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3357,7 +3369,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p129-9"
+    "ptr_link": "capitoltrades-p131-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3369,7 +3381,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p129-10"
+    "ptr_link": "capitoltrades-p131-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3381,7 +3393,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p129-11"
+    "ptr_link": "capitoltrades-p131-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3393,7 +3405,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p130-0"
+    "ptr_link": "capitoltrades-p131-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3405,7 +3417,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p130-1"
+    "ptr_link": "capitoltrades-p131-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3417,7 +3429,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p130-2"
+    "ptr_link": "capitoltrades-p131-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3429,7 +3441,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p130-3"
+    "ptr_link": "capitoltrades-p131-8"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3441,7 +3453,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p130-4"
+    "ptr_link": "capitoltrades-p131-9"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3453,7 +3465,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p130-5"
+    "ptr_link": "capitoltrades-p131-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3465,7 +3477,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p130-6"
+    "ptr_link": "capitoltrades-p131-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3477,7 +3489,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p130-7"
+    "ptr_link": "capitoltrades-p132-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3489,7 +3501,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p130-8"
+    "ptr_link": "capitoltrades-p132-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3501,7 +3513,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p130-9"
+    "ptr_link": "capitoltrades-p132-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3513,7 +3525,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p130-10"
+    "ptr_link": "capitoltrades-p132-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3525,7 +3537,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p130-11"
+    "ptr_link": "capitoltrades-p132-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3537,7 +3549,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p135-4"
+    "ptr_link": "capitoltrades-p136-9"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3549,7 +3561,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p135-5"
+    "ptr_link": "capitoltrades-p136-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3561,7 +3573,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p135-6"
+    "ptr_link": "capitoltrades-p136-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3573,7 +3585,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p135-7"
+    "ptr_link": "capitoltrades-p137-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3585,7 +3597,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p135-8"
+    "ptr_link": "capitoltrades-p137-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3597,7 +3609,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p135-9"
+    "ptr_link": "capitoltrades-p137-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3609,7 +3621,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p135-10"
+    "ptr_link": "capitoltrades-p137-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3621,7 +3633,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p136-0"
+    "ptr_link": "capitoltrades-p137-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3633,7 +3645,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p136-1"
+    "ptr_link": "capitoltrades-p137-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3645,7 +3657,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p136-2"
+    "ptr_link": "capitoltrades-p137-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3657,7 +3669,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p136-3"
+    "ptr_link": "capitoltrades-p137-8"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3669,7 +3681,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p136-4"
+    "ptr_link": "capitoltrades-p137-9"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3681,7 +3693,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p136-5"
+    "ptr_link": "capitoltrades-p137-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3693,7 +3705,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p136-6"
+    "ptr_link": "capitoltrades-p137-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3705,7 +3717,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p136-7"
+    "ptr_link": "capitoltrades-p138-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3717,7 +3729,7 @@
     "amount": "100K\u2013250K",
     "transaction_date": "2026-02-10",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p143-9"
+    "ptr_link": "capitoltrades-p145-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3729,7 +3741,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-10",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p143-10"
+    "ptr_link": "capitoltrades-p145-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3741,7 +3753,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p143-11"
+    "ptr_link": "capitoltrades-p145-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3753,7 +3765,7 @@
     "amount": "50K\u2013100K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p144-0"
+    "ptr_link": "capitoltrades-p145-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3765,7 +3777,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p144-1"
+    "ptr_link": "capitoltrades-p145-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3777,7 +3789,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-10",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p144-2"
+    "ptr_link": "capitoltrades-p145-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3789,7 +3801,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p144-3"
+    "ptr_link": "capitoltrades-p145-8"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3801,7 +3813,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p144-4"
+    "ptr_link": "capitoltrades-p145-9"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3813,7 +3825,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-06",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p144-5"
+    "ptr_link": "capitoltrades-p145-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3825,7 +3837,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p144-6"
+    "ptr_link": "capitoltrades-p145-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3837,7 +3849,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p144-7"
+    "ptr_link": "capitoltrades-p146-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3849,7 +3861,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p144-8"
+    "ptr_link": "capitoltrades-p146-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3861,7 +3873,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p144-9"
+    "ptr_link": "capitoltrades-p146-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3873,7 +3885,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-06",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p144-10"
+    "ptr_link": "capitoltrades-p146-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3885,7 +3897,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p144-11"
+    "ptr_link": "capitoltrades-p146-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3897,7 +3909,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p145-0"
+    "ptr_link": "capitoltrades-p146-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3909,7 +3921,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-06",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p145-1"
+    "ptr_link": "capitoltrades-p146-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3921,7 +3933,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p145-2"
+    "ptr_link": "capitoltrades-p146-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3933,7 +3945,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-06",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p145-3"
+    "ptr_link": "capitoltrades-p146-8"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3945,7 +3957,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-06",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p145-4"
+    "ptr_link": "capitoltrades-p146-9"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3957,7 +3969,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p145-5"
+    "ptr_link": "capitoltrades-p146-10"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3969,7 +3981,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-06",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p145-6"
+    "ptr_link": "capitoltrades-p146-11"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3981,7 +3993,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p145-7"
+    "ptr_link": "capitoltrades-p147-0"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -3993,7 +4005,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p145-8"
+    "ptr_link": "capitoltrades-p147-1"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -4005,7 +4017,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p145-9"
+    "ptr_link": "capitoltrades-p147-2"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -4017,7 +4029,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p145-10"
+    "ptr_link": "capitoltrades-p147-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -4029,7 +4041,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p145-11"
+    "ptr_link": "capitoltrades-p147-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -4041,7 +4053,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p146-0"
+    "ptr_link": "capitoltrades-p147-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -4053,7 +4065,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-06",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p146-1"
+    "ptr_link": "capitoltrades-p147-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -4065,7 +4077,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p146-2"
+    "ptr_link": "capitoltrades-p147-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -4077,6 +4089,6 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-02-05",
     "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p146-3"
+    "ptr_link": "capitoltrades-p147-8"
   }
 ]
