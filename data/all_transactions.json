@@ -1,5 +1,29 @@
 [
   {
+    "representative": "Rep. Jennifer  McClellan",
+    "party": "D",
+    "district": "VA",
+    "ticker": "VZ:US",
+    "asset_description": "Verizon Communications Inc",
+    "type": "Sale",
+    "amount": "100K\u2013250K",
+    "transaction_date": "2026-04-07",
+    "disclosure_date": "2026-04-17",
+    "ptr_link": "capitoltrades-p1-0"
+  },
+  {
+    "representative": "Rep. Sheri Biggs",
+    "party": "R",
+    "district": "SC",
+    "ticker": "IBIT:US",
+    "asset_description": "ISHARES BITCOIN TRUST ETF",
+    "type": "Purchase",
+    "amount": "100K\u2013250K",
+    "transaction_date": "2026-03-04",
+    "disclosure_date": "2026-04-17",
+    "ptr_link": "capitoltrades-p1-3"
+  },
+  {
     "representative": "Rep. August Pfluger",
     "party": "R",
     "district": "TX",
