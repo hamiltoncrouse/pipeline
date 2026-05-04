@@ -2616,18 +2616,6 @@
     "ptr_link": "capitoltrades-p107-3"
   },
   {
-    "representative": "Sen. Susan Collins",
-    "party": "R",
-    "district": "ME",
-    "ticker": "PFE:US",
-    "asset_description": "Pfizer Inc",
-    "type": "Purchase",
-    "amount": "15K\u201350K",
-    "transaction_date": "2026-02-03",
-    "disclosure_date": "2026-03-26",
-    "ptr_link": "capitoltrades-p107-5"
-  },
-  {
     "representative": "Rep. Tim Moore",
     "party": "R",
     "district": "NC",
@@ -3048,78 +3036,6 @@
     "ptr_link": "capitoltrades-p126-1"
   },
   {
-    "representative": "Rep. Tony Wied",
-    "party": "R",
-    "district": "WI",
-    "ticker": "HUBS:US",
-    "asset_description": "HubSpot Inc",
-    "type": "Purchase",
-    "amount": "15K\u201350K",
-    "transaction_date": "2026-02-03",
-    "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p126-3"
-  },
-  {
-    "representative": "Rep. Tony Wied",
-    "party": "R",
-    "district": "WI",
-    "ticker": "TTD:US",
-    "asset_description": "The Trade Desk Inc",
-    "type": "Purchase",
-    "amount": "50K\u2013100K",
-    "transaction_date": "2026-02-03",
-    "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p126-4"
-  },
-  {
-    "representative": "Rep. Tony Wied",
-    "party": "R",
-    "district": "WI",
-    "ticker": "TTWO:US",
-    "asset_description": "Take-Two Interactive Software Inc",
-    "type": "Sale",
-    "amount": "15K\u201350K",
-    "transaction_date": "2026-02-03",
-    "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p126-5"
-  },
-  {
-    "representative": "Rep. Tony Wied",
-    "party": "R",
-    "district": "WI",
-    "ticker": "ANET:US",
-    "asset_description": "Arista Networks Inc",
-    "type": "Sale",
-    "amount": "15K\u201350K",
-    "transaction_date": "2026-02-03",
-    "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p126-6"
-  },
-  {
-    "representative": "Rep. Tony Wied",
-    "party": "R",
-    "district": "WI",
-    "ticker": "LRCX:US",
-    "asset_description": "Lam Research Corp",
-    "type": "Sale",
-    "amount": "50K\u2013100K",
-    "transaction_date": "2026-02-03",
-    "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p126-7"
-  },
-  {
-    "representative": "Rep. Tony Wied",
-    "party": "R",
-    "district": "WI",
-    "ticker": "ULTA:US",
-    "asset_description": "Ulta Beauty Inc",
-    "type": "Sale",
-    "amount": "15K\u201350K",
-    "transaction_date": "2026-02-03",
-    "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p126-8"
-  },
-  {
     "representative": "Rep. Michael McCaul",
     "party": "R",
     "district": "TX",
@@ -3226,18 +3142,6 @@
     "transaction_date": "2026-02-04",
     "disclosure_date": "2026-03-12",
     "ptr_link": "capitoltrades-p129-11"
-  },
-  {
-    "representative": "Rep. Michael McCaul",
-    "party": "R",
-    "district": "TX",
-    "ticker": "SAP:US",
-    "asset_description": "SAP SE",
-    "type": "Purchase",
-    "amount": "15K\u201350K",
-    "transaction_date": "2026-02-03",
-    "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p130-0"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -3478,18 +3382,6 @@
     "transaction_date": "2026-02-19",
     "disclosure_date": "2026-03-12",
     "ptr_link": "capitoltrades-p137-0"
-  },
-  {
-    "representative": "Rep. Ro Khanna",
-    "party": "D",
-    "district": "CA",
-    "ticker": "8376923Z:LN",
-    "asset_description": "Barclays Bank PLC",
-    "type": "Purchase",
-    "amount": "100K\u2013250K",
-    "transaction_date": "2026-02-03",
-    "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p137-1"
   },
   {
     "representative": "Rep. Ro Khanna",
