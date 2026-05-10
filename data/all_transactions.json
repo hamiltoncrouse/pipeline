@@ -1,5 +1,17 @@
 [
   {
+    "representative": "Rep. Greg Stanton",
+    "party": "D",
+    "district": "AZ",
+    "ticker": "TCNNF:US",
+    "asset_description": "TRULIEVE CANNABIS CORP",
+    "type": "Sale",
+    "amount": "15K\u201350K",
+    "transaction_date": "2026-05-06",
+    "disclosure_date": "2026-05-08",
+    "ptr_link": "capitoltrades-p1-10"
+  },
+  {
     "representative": "Rep. April McClain Delaney",
     "party": "D",
     "district": "MD",
@@ -3010,30 +3022,6 @@
     "transaction_date": "2026-02-11",
     "disclosure_date": "2026-03-12",
     "ptr_link": "capitoltrades-p131-0"
-  },
-  {
-    "representative": "Rep. Tony Wied",
-    "party": "R",
-    "district": "WI",
-    "ticker": "WAL:US",
-    "asset_description": "Western Alliance Bancorporation",
-    "type": "Sale",
-    "amount": "50K\u2013100K",
-    "transaction_date": "2026-02-09",
-    "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p131-1"
-  },
-  {
-    "representative": "Rep. Tony Wied",
-    "party": "R",
-    "district": "WI",
-    "ticker": "LRCX:US",
-    "asset_description": "Lam Research Corp",
-    "type": "Sale",
-    "amount": "50K\u2013100K",
-    "transaction_date": "2026-02-09",
-    "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p131-2"
   },
   {
     "representative": "Rep. Michael McCaul",
