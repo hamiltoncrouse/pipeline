@@ -3123,18 +3123,6 @@
     "representative": "Rep. Michael McCaul",
     "party": "R",
     "district": "TX",
-    "ticker": "WWD:US",
-    "asset_description": "Woodward Inc",
-    "type": "Sale",
-    "amount": "15K\u201350K",
-    "transaction_date": "2026-02-10",
-    "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p140-0"
-  },
-  {
-    "representative": "Rep. Michael McCaul",
-    "party": "R",
-    "district": "TX",
     "ticker": "AER:US",
     "asset_description": "AerCap Holdings NV",
     "type": "Sale",
@@ -3154,18 +3142,6 @@
     "transaction_date": "2026-02-23",
     "disclosure_date": "2026-03-12",
     "ptr_link": "capitoltrades-p140-2"
-  },
-  {
-    "representative": "Rep. Michael McCaul",
-    "party": "R",
-    "district": "TX",
-    "ticker": "AMZN:US",
-    "asset_description": "Amazon.com Inc",
-    "type": "Sale",
-    "amount": "15K\u201350K",
-    "transaction_date": "2026-02-10",
-    "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p140-4"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -3298,18 +3274,6 @@
     "transaction_date": "2026-02-24",
     "disclosure_date": "2026-03-12",
     "ptr_link": "capitoltrades-p142-4"
-  },
-  {
-    "representative": "Rep. Ro Khanna",
-    "party": "D",
-    "district": "CA",
-    "ticker": "CM:US",
-    "asset_description": "Canadian Imperial Bank of Commerce",
-    "type": "Purchase",
-    "amount": "50K\u2013100K",
-    "transaction_date": "2026-02-10",
-    "disclosure_date": "2026-03-12",
-    "ptr_link": "capitoltrades-p142-5"
   },
   {
     "representative": "Rep. Ro Khanna",
