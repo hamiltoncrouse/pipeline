@@ -1,32 +1,6 @@
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-:root {
-  --bg:      #f5f0e8;
-  --bg-dark: #151210;
-  --text:    #1a1714;
-  --muted:   #7a7060;
-  --border:  #ddd5c5;
-  --red:     #7a2020;
-}
-
-html { scroll-behavior: smooth; }
-
-body {
-  font-family: 'EB Garamond', Georgia, serif;
-  background: var(--bg);
-  color: var(--text);
-  font-size: 1.15rem;
-  line-height: 1.75;
-  -webkit-font-smoothing: antialiased;
-}
-
-.mono {
-  font-family: 'Space Mono', monospace;
-}
-
 /* ── TITLE ─────────────────────────────────────── */
 
-.title-block {
+.titleBlock {
   max-width: 760px;
   margin: 0 auto;
   padding: 7rem 2rem 5rem;
@@ -41,7 +15,7 @@ body {
   margin-bottom: 2.5rem;
 }
 
-h1 {
+.title {
   font-size: clamp(3rem, 8vw, 6rem);
   font-weight: 500;
   font-style: italic;
@@ -59,12 +33,12 @@ h1 {
   margin-bottom: 3.5rem;
 }
 
-.subject-wrap {
+.subjectWrap {
   display: inline-block;
   text-align: center;
 }
 
-.subject-photo {
+.subjectPhoto {
   width: 120px;
   height: 120px;
   object-fit: cover;
@@ -76,7 +50,7 @@ h1 {
   margin: 0 auto 0.75rem;
 }
 
-.subject-cap {
+.subjectCap {
   font-size: 0.62rem;
   letter-spacing: 0.1em;
   color: var(--muted);
@@ -114,7 +88,7 @@ h1 {
   padding: 0 2rem;
 }
 
-.fig-label {
+.figLabel {
   max-width: 640px;
   margin: 0 auto 1.25rem;
   font-size: 0.65rem;
@@ -125,16 +99,16 @@ h1 {
   padding-top: 1.25rem;
 }
 
-.fig-img {
+.figImg {
   display: block;
   width: 100%;
   max-width: 900px;
   margin: 0 auto 1.25rem;
   border-radius: 4px;
-  box-shadow: 0 4px 32px rgba(0,0,0,0.12), 0 1px 4px rgba(0,0,0,0.08);
+  box-shadow: 0 4px 32px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.08);
 }
 
-.fig-caption {
+.figCaption {
   max-width: 640px;
   margin: 0 auto;
   font-size: 0.95rem;
@@ -145,18 +119,18 @@ h1 {
 
 /* ── VARIANTS ──────────────────────────────────── */
 
-.variants-section {
+.variantsSection {
   background: var(--bg-dark);
   color: #e8e0d0;
   padding: 6rem 2rem;
 }
 
-.variants-inner {
+.variantsInner {
   max-width: 720px;
   margin: 0 auto;
 }
 
-.variants-section h2 {
+.variantsHeading {
   font-size: clamp(1.8rem, 4vw, 2.8rem);
   font-weight: 400;
   font-style: italic;
@@ -165,7 +139,7 @@ h1 {
   color: #f0e8d8;
 }
 
-.variants-intro {
+.variantsIntro {
   font-size: 1.1rem;
   color: #7a7060;
   font-style: italic;
@@ -175,10 +149,9 @@ h1 {
   border-bottom: 1px solid #2a2520;
 }
 
-.variant-list {
+.variantList {
   display: flex;
   flex-direction: column;
-  gap: 0;
 }
 
 .variant {
@@ -190,16 +163,18 @@ h1 {
   align-items: start;
 }
 
-.variant:last-child { border-bottom: none; }
+.variant:last-child {
+  border-bottom: none;
+}
 
-.v-num {
+.vNum {
   font-size: 0.65rem;
   color: #4a4035;
   letter-spacing: 0.06em;
   padding-top: 0.35em;
 }
 
-.v-body h3 {
+.vName {
   font-size: 1.25rem;
   font-weight: 500;
   font-style: italic;
@@ -208,7 +183,7 @@ h1 {
   letter-spacing: -0.01em;
 }
 
-.v-body p {
+.vDesc {
   font-size: 1rem;
   color: #7a7060;
   line-height: 1.8;
@@ -222,13 +197,13 @@ h1 {
   padding: 6rem 2rem 7rem;
 }
 
-.closing-inner {
+.closingInner {
   max-width: 640px;
   margin: 0 auto;
   text-align: center;
 }
 
-.closing-text {
+.closingText {
   font-size: clamp(1.4rem, 3vw, 2rem);
   font-style: italic;
   font-weight: 400;
@@ -237,33 +212,34 @@ h1 {
   margin-bottom: 0.5em;
 }
 
-.closing-muted {
+.closingMuted {
   color: #4a4035;
   margin-bottom: 3rem;
 }
 
-.closing-sig {
+.closingSig {
   font-size: 0.7rem;
   color: #4a4035;
   letter-spacing: 0.1em;
   line-height: 2;
 }
 
-.closing-sig a {
+.closingLink {
   color: #7a6a50;
   text-decoration: none;
 }
 
-.closing-sig a:hover { color: #c8a44a; }
+.closingLink:hover {
+  color: #c8a44a;
+}
 
 /* ── RESPONSIVE ────────────────────────────────── */
 
 @media (max-width: 600px) {
-  .title-block { padding: 4rem 1.25rem 3rem; }
-  h1 { font-size: 2.8rem; }
+  .titleBlock { padding: 4rem 1.25rem 3rem; }
   .prose { padding: 0 1.25rem 4rem; }
   .figure { padding: 0 1.25rem; margin-bottom: 4rem; }
-  .variants-section { padding: 4rem 1.25rem; }
+  .variantsSection { padding: 4rem 1.25rem; }
   .closing { padding: 4rem 1.25rem 5rem; }
   .variant { grid-template-columns: 2.5rem 1fr; gap: 1rem; }
 }
