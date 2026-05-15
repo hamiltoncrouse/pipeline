@@ -3,161 +3,126 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Hamilton Crouse</title>
+  <title>The Algorithm Made 18 of Me</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Space+Mono:wght@400;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 
-  <!-- ░░ HERO ░░ -->
-  <section class="hero">
-    <div class="hero-left">
-      <div class="terminal">
-        <div class="term-bar">
-          <span class="dot" style="background:#e55"></span>
-          <span class="dot" style="background:#f5a623"></span>
-          <span class="dot" style="background:#22c55e"></span>
-          <span class="term-title">scrape.py — subject: hamilton_crouse</span>
-        </div>
-        <div class="term-body">
-          <p><span class="p">$</span> python scrape.py --subject hamilton_crouse</p>
-          <p class="dim">Initializing scan...</p>
-          <p class="dim">Parsing public record...</p>
-          <p class="ok">✓ builder</p>
-          <p class="ok">✓ reader</p>
-          <p class="ok">✓ watcher</p>
-          <p class="dim">Cross-referencing inputs...</p>
-          <p class="gold">→ pattern: makes the invisible visible</p>
-          <p class="dim">———————————————————</p>
-          <p>trades indexed: <span class="gold" id="trade-count">…</span></p>
-          <p>update cycle: <span class="teal">24h</span></p>
-          <p>subject status: <span class="ok">ACTIVE</span><span class="cursor">█</span></p>
-        </div>
-      </div>
-
-      <div class="hero-name-wrap">
-        <h1>Hamilton<br><em>Crouse</em></h1>
-        <p class="tagline">Making the invisible visible.</p>
-      </div>
+  <!-- ░ TITLE ░ -->
+  <header class="title-block">
+    <p class="eyebrow mono">Self-Documentation Report · Spring 2026</p>
+    <h1>The Algorithm<br>Made&nbsp;18&nbsp;of&nbsp;Me</h1>
+    <p class="subtitle">An incomplete record of who I might become,<br>depending on the length of my hair.</p>
+    <div class="subject-wrap">
+      <img src="hamilton.jpg" alt="The Subject" class="subject-photo" />
+      <p class="mono subject-cap">The Subject. Pre-analysis.</p>
     </div>
+  </header>
 
-    <div class="hero-right">
-      <div class="photo-frame">
-        <img src="hamilton.jpg" alt="Hamilton Crouse" class="photo" />
-        <div class="photo-tint"></div>
-        <div class="photo-label">
-          <span class="mono">SUBJECT_001</span>
-          <span class="mono live-dot-wrap"><span class="live-dot"></span>LIVE</span>
+  <!-- ░ OPENING ░ -->
+  <section class="prose">
+    <p>In the spring of 2026, I submitted a single photograph of my face to an algorithm. The algorithm was optimistic. It returned eighteen portraits.</p>
+
+    <p>I had not asked for eighteen portraits. I had asked about hair.</p>
+
+    <p>The algorithm did not seem to understand the difference. It identified my face shape as Oval/Rectangle — which I have chosen to take as a compliment — assessed my hair type, noted my age, and proceeded to generate what it described as a "tailored" set of recommendations. Each recommendation came with a portrait. The portrait looked like me. The portrait did not look like me. The portrait was me, in another life, with different hair, making different choices, probably at a different dinner table somewhere, eating something I can't picture.</p>
+
+    <p>I stared at them for a while. Then I made this page.</p>
+  </section>
+
+  <!-- ░ FIGURE 1 ░ -->
+  <section class="figure">
+    <p class="fig-label mono">Fig. 1 — First Contact</p>
+    <img src="analysis-1.png" alt="Nine hairstyle recommendations with pros and cons" class="fig-img" />
+    <p class="fig-caption">The algorithm's initial findings. It recommended, as best bets, the Longer Side Sweep, the Ivy League, and the Soft Pompadour. It had opinions about silver hair. The subject considered the Pompadour for longer than he would like to admit.</p>
+  </section>
+
+  <!-- ░ FIGURE 2 ░ -->
+  <section class="figure">
+    <p class="fig-label mono">Fig. 2 — Second Opinion</p>
+    <img src="analysis-2.png" alt="Nine more hairstyle options with color ideas" class="fig-img" />
+    <p class="fig-caption">The algorithm returned, unprompted, with nine more. This time it mentioned beard balance. It had thoughts on salt spray, matte clay, and light pomade. It said natural gray would look more distinguished than a flat dark dye. The subject put down the flat dark dye.</p>
+  </section>
+
+  <!-- ░ VARIANTS ░ -->
+  <section class="variants-section">
+    <div class="variants-inner">
+      <h2>Field Notes on the Eighteen Hamiltons</h2>
+      <p class="variants-intro">What follows is an incomplete taxonomy of who I might have been, given different choices at the barbershop earlier in life. All eighteen versions are real. All eighteen are living somewhere. I am, apparently, all of them.</p>
+
+      <div class="variant-list">
+
+        <div class="variant">
+          <span class="v-num mono">01.</span>
+          <div class="v-body">
+            <h3>Classic Side Part Hamilton</h3>
+            <p>Has opinions about infrastructure. Arrives seven minutes early to everything and does not mention it. Drives something sensible and has no strong feelings about it whatsoever. You would trust him with your finances. You would not call him at 2am. He would not expect you to.</p>
+          </div>
         </div>
+
+        <div class="variant">
+          <span class="v-num mono">02.</span>
+          <div class="v-body">
+            <h3>Soft Pompadour Hamilton</h3>
+            <p>Fun at parties. Not always invited back. Knows three facts about every topic and delivers them with full confidence. Once described himself as "a connector." The algorithm said this one pairs well with glasses. He wears the glasses like a prop.</p>
+          </div>
+        </div>
+
+        <div class="variant">
+          <span class="v-num mono">03.</span>
+          <div class="v-body">
+            <h3>Long Layers (Flowing) Hamilton</h3>
+            <p>Still going through it. But creatively. The algorithm flagged that this look requires "proper care," which he interprets as a metaphor and which it was not. Reads a lot. Finishes most of the books. Has a podcast he's been meaning to start.</p>
+          </div>
+        </div>
+
+        <div class="variant">
+          <span class="v-num mono">04.</span>
+          <div class="v-body">
+            <h3>Man Bun (Low) Hamilton</h3>
+            <p>Does not answer emails quickly. Has a sourdough starter he has named. Once turned down a meeting because he had "a lot on." He did not have a lot on. The algorithm noted this style requires length and upkeep. He has both. He is comfortable with both.</p>
+          </div>
+        </div>
+
+        <div class="variant">
+          <span class="v-num mono">05.</span>
+          <div class="v-body">
+            <h3>Highlighted Texture Hamilton</h3>
+            <p>Requires toning every few months. Is aware of this. Has made peace with it. The algorithm said this look is "modern" and "youthful." He heard "modern" and "youthful" and immediately booked an appointment. This is the version that tries the hardest. You love him for it.</p>
+          </div>
+        </div>
+
+        <div class="variant">
+          <span class="v-num mono">06.</span>
+          <div class="v-body">
+            <h3>Layered Silver Flow Hamilton</h3>
+            <p>Looks like he makes furniture by hand and he does make furniture by hand. Embraces the gray, as instructed. Can look unruly without shaping, per the algorithm, which understands him better than most people. Full of softness. Requires patience. Has both.</p>
+          </div>
+        </div>
+
+        <div class="variant">
+          <span class="v-num mono">07.</span>
+          <div class="v-body">
+            <h3>Salt &amp; Pepper Natural Gray Hamilton</h3>
+            <p>This is the one who wins. He has made peace with the calendar. He smells like cedar. He does not need to be told he looks distinguished — he knows, and he's moved on to other things. The algorithm gave him the fewest caveats. He earned that.</p>
+          </div>
+        </div>
+
       </div>
     </div>
   </section>
 
-  <!-- ░░ SECTION 01: OPERATION ░░ -->
-  <section class="ops">
-    <div class="container">
-      <div class="sec-header">
-        <span class="mono sec-num">01</span>
-        <span class="sec-rule"></span>
-        <span class="mono sec-title">ACTIVE OPERATION</span>
-      </div>
-
-      <div class="op-card">
-        <div class="op-top">
-          <div class="live-badge">
-            <span class="live-dot"></span>
-            LIVE · UPDATES DAILY
-          </div>
-          <span class="mono op-freq">CRON: 0 0 * * *</span>
-        </div>
-        <h2>Congressional Trade Monitor</h2>
-        <p class="op-desc">
-          Every member of Congress is required by law to disclose their stock trades.
-          Most people never see them. I scrape, filter, and surface every high-conviction
-          move — automatically, every 24 hours. Because sunlight is the only auditor
-          that never sleeps.
-        </p>
-        <div class="op-stats">
-          <div class="stat-block">
-            <span class="stat-n" id="stat-trades">…</span>
-            <span class="stat-l mono">trades tracked</span>
-          </div>
-          <div class="stat-sep"></div>
-          <div class="stat-block">
-            <span class="stat-n">$15K+</span>
-            <span class="stat-l mono">minimum threshold</span>
-          </div>
-          <div class="stat-sep"></div>
-          <div class="stat-block">
-            <span class="stat-n">90</span>
-            <span class="stat-l mono">day lookback</span>
-          </div>
-          <div class="stat-sep"></div>
-          <div class="stat-block">
-            <span class="stat-n">24h</span>
-            <span class="stat-l mono">update cycle</span>
-          </div>
-        </div>
-      </div>
+  <!-- ░ CLOSE ░ -->
+  <section class="closing">
+    <div class="closing-inner">
+      <p class="closing-text">The real Hamilton contains all of them.</p>
+      <p class="closing-text closing-muted">The algorithm doesn't know that. The algorithm is still optimizing.</p>
+      <p class="mono closing-sig">— Hamilton Crouse<br><a href="https://github.com/hamiltoncrouse" target="_blank" rel="noopener">github.com/hamiltoncrouse</a></p>
     </div>
   </section>
 
-  <!-- ░░ SECTION 02: SELF-DISCLOSURE ░░ -->
-  <section class="disclosure">
-    <div class="container">
-      <div class="sec-header">
-        <span class="mono sec-num">02</span>
-        <span class="sec-rule"></span>
-        <span class="mono sec-title">SELF-DISCLOSURE</span>
-        <span class="mono sec-sub">if they have to file it, so do I</span>
-      </div>
-
-      <div class="disc-grid">
-        <div class="disc-card">
-          <span class="disc-num mono">A</span>
-          <h3>Reading</h3>
-          <p>History, technology, whatever thread I can't put down. A bookshelf is a biography. Mine skews toward power, systems, and the long arc.</p>
-        </div>
-        <div class="disc-card">
-          <span class="disc-num mono">B</span>
-          <h3>Building</h3>
-          <p>Tools that answer questions I actually have. If I'm frustrated enough to build it, someone else needed it too. Clean code, honest output, no noise.</p>
-        </div>
-        <div class="disc-card">
-          <span class="disc-num mono">C</span>
-          <h3>Pattern Recognition</h3>
-          <p>The main thing. Markets, books, codebases, people — different inputs, same search: what's hiding in plain sight? I can't stop looking.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ░░ FOOTER ░░ -->
-  <footer>
-    <div class="container footer-inner">
-      <div class="shell-line">
-        <span class="p mono">$</span>
-        <span class="mono dim">open </span>
-        <a href="https://github.com/hamiltoncrouse" target="_blank" rel="noopener" class="mono foot-link">github.com/hamiltoncrouse</a>
-      </div>
-      <span class="mono dim foot-copy">© 2026 Hamilton Crouse — all data public record</span>
-    </div>
-  </footer>
-
-  <script>
-    fetch('./data/all_transactions.json')
-      .then(r => r.json())
-      .then(data => {
-        const n = data.length;
-        document.getElementById('trade-count').textContent = n;
-        document.getElementById('stat-trades').textContent = n;
-      })
-      .catch(() => {
-        document.getElementById('trade-count').textContent = '293';
-        document.getElementById('stat-trades').textContent = '293';
-      });
-  </script>
 </body>
 </html>
