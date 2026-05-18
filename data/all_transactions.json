@@ -15,13 +15,37 @@
     "representative": "Rep. Ro Khanna",
     "party": "D",
     "district": "CA",
+    "ticker": "BRK/B:US",
+    "asset_description": "Berkshire Hathaway Inc",
+    "type": "Purchase",
+    "amount": "15K\u201350K",
+    "transaction_date": "2026-04-13",
+    "disclosure_date": "2026-05-13",
+    "ptr_link": "capitoltrades-p3-1"
+  },
+  {
+    "representative": "Rep. Ro Khanna",
+    "party": "D",
+    "district": "CA",
+    "ticker": "HD:US",
+    "asset_description": "The Home Depot Inc",
+    "type": "Purchase",
+    "amount": "15K\u201350K",
+    "transaction_date": "2026-04-13",
+    "disclosure_date": "2026-05-13",
+    "ptr_link": "capitoltrades-p3-2"
+  },
+  {
+    "representative": "Rep. Ro Khanna",
+    "party": "D",
+    "district": "CA",
     "ticker": "CSCO:US",
     "asset_description": "Cisco Systems Inc",
     "type": "Purchase",
     "amount": "15K\u201350K",
     "transaction_date": "2026-04-13",
     "disclosure_date": "2026-05-13",
-    "ptr_link": "capitoltrades-p3-0"
+    "ptr_link": "capitoltrades-p3-3"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -33,7 +57,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-04-13",
     "disclosure_date": "2026-05-13",
-    "ptr_link": "capitoltrades-p3-1"
+    "ptr_link": "capitoltrades-p3-4"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -45,7 +69,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-04-13",
     "disclosure_date": "2026-05-13",
-    "ptr_link": "capitoltrades-p3-2"
+    "ptr_link": "capitoltrades-p3-5"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -57,7 +81,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-04-13",
     "disclosure_date": "2026-05-13",
-    "ptr_link": "capitoltrades-p3-3"
+    "ptr_link": "capitoltrades-p3-6"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -69,7 +93,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-04-13",
     "disclosure_date": "2026-05-13",
-    "ptr_link": "capitoltrades-p3-4"
+    "ptr_link": "capitoltrades-p3-7"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -81,7 +105,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-04-13",
     "disclosure_date": "2026-05-13",
-    "ptr_link": "capitoltrades-p3-5"
+    "ptr_link": "capitoltrades-p3-8"
   },
   {
     "representative": "Rep. Ro Khanna",
@@ -93,7 +117,7 @@
     "amount": "15K\u201350K",
     "transaction_date": "2026-04-13",
     "disclosure_date": "2026-05-13",
-    "ptr_link": "capitoltrades-p3-6"
+    "ptr_link": "capitoltrades-p3-9"
   },
   {
     "representative": "Rep. Ro Khanna",
