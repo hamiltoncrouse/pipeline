@@ -1,5 +1,17 @@
 [
   {
+    "representative": "Sen. Bernie Moreno",
+    "party": "R",
+    "district": "OH",
+    "ticker": "ETOR:US",
+    "asset_description": "ETORO GROUP LTD",
+    "type": "Sale",
+    "amount": "100K\u2013250K",
+    "transaction_date": "2026-05-06",
+    "disclosure_date": "2026-05-23",
+    "ptr_link": "capitoltrades-p1-0"
+  },
+  {
     "representative": "Rep. Sara Jacobs",
     "party": "D",
     "district": "CA",
