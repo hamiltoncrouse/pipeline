@@ -1,5 +1,17 @@
 [
   {
+    "representative": "Rep. David Taylor",
+    "party": "R",
+    "district": "OH",
+    "ticker": "GOOGL:US",
+    "asset_description": "Alphabet Inc",
+    "type": "Sale",
+    "amount": "15K\u201350K",
+    "transaction_date": "2026-05-15",
+    "disclosure_date": "2026-05-29",
+    "ptr_link": "capitoltrades-p1-0"
+  },
+  {
     "representative": "Rep. Jonathan Jackson",
     "party": "D",
     "district": "IL",
@@ -1995,18 +2007,6 @@
     "representative": "Rep. Michael McCaul",
     "party": "R",
     "district": "TX",
-    "ticker": "MA:US",
-    "asset_description": "Mastercard Inc",
-    "type": "Purchase",
-    "amount": "15K\u201350K",
-    "transaction_date": "2026-03-02",
-    "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p99-5"
-  },
-  {
-    "representative": "Rep. Michael McCaul",
-    "party": "R",
-    "district": "TX",
     "ticker": "SPGI:US",
     "asset_description": "S&P Global Inc",
     "type": "Purchase",
@@ -2139,18 +2139,6 @@
     "representative": "Rep. Michael McCaul",
     "party": "R",
     "district": "TX",
-    "ticker": "EQH:US",
-    "asset_description": "Equitable Holdings Inc",
-    "type": "Purchase",
-    "amount": "50K\u2013100K",
-    "transaction_date": "2026-03-02",
-    "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p103-10"
-  },
-  {
-    "representative": "Rep. Michael McCaul",
-    "party": "R",
-    "district": "TX",
     "ticker": "GPN:US",
     "asset_description": "GLOBAL PAYMENTS Inc",
     "type": "Purchase",
@@ -2230,18 +2218,6 @@
     "transaction_date": "2026-03-13",
     "disclosure_date": "2026-04-10",
     "ptr_link": "capitoltrades-p104-5"
-  },
-  {
-    "representative": "Rep. Michael McCaul",
-    "party": "R",
-    "district": "TX",
-    "ticker": "LPLA:US",
-    "asset_description": "LPL Financial Holdings Inc",
-    "type": "Sale",
-    "amount": "50K\u2013100K",
-    "transaction_date": "2026-03-02",
-    "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p104-6"
   },
   {
     "representative": "Rep. Michael McCaul",
@@ -3586,17 +3562,5 @@
     "transaction_date": "2026-03-16",
     "disclosure_date": "2026-04-09",
     "ptr_link": "capitoltrades-p150-10"
-  },
-  {
-    "representative": "Rep. Ro Khanna",
-    "party": "D",
-    "district": "CA",
-    "ticker": "8376923Z:LN",
-    "asset_description": "Barclays Bank PLC",
-    "type": "Purchase",
-    "amount": "15K\u201350K",
-    "transaction_date": "2026-03-02",
-    "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p150-11"
   }
 ]
