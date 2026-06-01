@@ -1971,18 +1971,6 @@
     "representative": "Rep. Michael McCaul",
     "party": "R",
     "district": "TX",
-    "ticker": "NSIT:US",
-    "asset_description": "Insight Enterprises Inc",
-    "type": "Purchase",
-    "amount": "15K\u201350K",
-    "transaction_date": "2026-03-03",
-    "disclosure_date": "2026-04-10",
-    "ptr_link": "capitoltrades-p99-2"
-  },
-  {
-    "representative": "Rep. Michael McCaul",
-    "party": "R",
-    "district": "TX",
     "ticker": "EQT:US",
     "asset_description": "EQT Corp",
     "type": "Purchase",
@@ -2278,18 +2266,6 @@
     "transaction_date": "2026-03-31",
     "disclosure_date": "2026-04-10",
     "ptr_link": "capitoltrades-p105-4"
-  },
-  {
-    "representative": "Rep. Ro Khanna",
-    "party": "D",
-    "district": "CA",
-    "ticker": "NTIOF:US",
-    "asset_description": "National Bank of Canada",
-    "type": "Purchase",
-    "amount": "50K\u2013100K",
-    "transaction_date": "2026-03-03",
-    "disclosure_date": "2026-04-09",
-    "ptr_link": "capitoltrades-p111-7"
   },
   {
     "representative": "Rep. Ro Khanna",
